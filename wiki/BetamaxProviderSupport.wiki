@@ -63,7 +63,7 @@ The numbers in brackets are HTTP status codes http://en.wikipedia.org/wiki/Http_
 
 
 
-Changes:
+Changed on:
 
 2012-09-17: Update information
 
